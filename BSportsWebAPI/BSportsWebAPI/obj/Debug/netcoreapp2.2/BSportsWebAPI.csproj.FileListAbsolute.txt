@@ -1,0 +1,14 @@
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\bin\Debug\netcoreapp2.2\BSportsWebAPI.deps.json
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\bin\Debug\netcoreapp2.2\BSportsWebAPI.runtimeconfig.json
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\bin\Debug\netcoreapp2.2\BSportsWebAPI.runtimeconfig.dev.json
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\bin\Debug\netcoreapp2.2\BSportsWebAPI.dll
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\bin\Debug\netcoreapp2.2\BSportsWebAPI.pdb
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.RazorAssemblyInfo.cache
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.RazorAssemblyInfo.cs
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.AssemblyInfoInputs.cache
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.AssemblyInfo.cs
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.dll
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.pdb
+C:\Users\DIVYA\Desktop\BSportsWebAPI\BSportsWebAPI\BSportsWebAPI\obj\Debug\netcoreapp2.2\BSportsWebAPI.csprojAssemblyReference.cache
